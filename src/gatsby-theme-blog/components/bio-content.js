@@ -8,11 +8,7 @@ import { Themed } from "theme-ui"
 export default function Bio() {
   return (
     <>
-      This is where <Themed.a href="http://example.com/">your name</Themed.a>
-      {` `}
-      goes.
-      <br />
-      Or whatever, you make the rules.
+         This is a test blog, deployed using gatsby and CloudFlare Pages
     </>
   )
 }
